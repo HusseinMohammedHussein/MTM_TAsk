@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "MTM_Task_App"

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <net.bohush.geometricprogressview.GeometricProgressView
+        android:id="@+id/loading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:gp_type="triangle"
+        app:gp_number_of_angles="30"
+        app:gp_duration="800"
+        app:gp_color="@color/loading_color"/>
+</layout>

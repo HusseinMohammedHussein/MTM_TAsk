@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">MTM_Task_App</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Hussien Mohammed</string>
+    <string name="nav_header_subtitle">dev.hussien.m@gmail.com</string>
+
+    <string name="menu_map">Map</string>
+    <string name="menu_source_loc">Source Location</string>
+    <string name="menu_destination_loc">Destination Location</string>
+    <string name="title_activity_maps">Map</string>
+
+    <!--List_Destination-->
+    <string name="tv_done">Done</string>
+
+    <!--Content_Main-->
+    <string name="tv_hint_your_location">Your Location</string>
+    <string name="tv_hint_destination">Destination</string>
+    <string name="intput_type">textquery</string>
+
+    <!--Send with Key-->
+    <string-array name="fields">
+        <item>name</item>
+        <item>geometry</item>
+    </string-array>
+
+    <!--TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="my_location">My Location</string>
+</resources>
